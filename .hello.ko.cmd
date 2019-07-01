@@ -1,0 +1,1 @@
+cmd_/home/sc/Documents/ker_mod/pid_cr3/hello.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sc/Documents/ker_mod/pid_cr3/hello.ko /home/sc/Documents/ker_mod/pid_cr3/hello.o /home/sc/Documents/ker_mod/pid_cr3/hello.mod.o

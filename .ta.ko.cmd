@@ -1,0 +1,1 @@
+cmd_/home/beverly/Documents/test_ker/pid_cr3/ta.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0/scripts/module-common.lds --build-id  -o /home/beverly/Documents/test_ker/pid_cr3/ta.ko /home/beverly/Documents/test_ker/pid_cr3/ta.o /home/beverly/Documents/test_ker/pid_cr3/ta.mod.o
